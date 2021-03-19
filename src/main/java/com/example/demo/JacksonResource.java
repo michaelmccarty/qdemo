@@ -1,4 +1,4 @@
-package com.example.resteasyjackson;
+package com.example.demo;
 
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
